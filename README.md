@@ -1,2 +1,2 @@
 # python-challenge
-Contains files for Assignment 3
+Contains files for Assignment 3. Had a lot of trouble with cloning and then pushing files from and to GitHub. Sounds like several others in the class had the same issue. For now I am just manually bringing the files over, I don't have time at the moment to keep trying to get the push to work. There should be 2 folders - one called PyBank and the other called PyPoll, each with a .py file, a resources folder with the CSV used, and an analysis folder with the .txt output that resulted from running the .py in the terminal.
